@@ -1,0 +1,23 @@
+header {
+  background: #3e3c3c;
+}
+
+.logo {
+  padding-left: 10%;
+}
+
+nav ul {
+  padding-right: 9%;
+}
+
+.home {
+  background: #1c1a19;
+  background-image: url(Images/Illustration-header.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+
+.primary-text {
+  color:#f55800;
+}
