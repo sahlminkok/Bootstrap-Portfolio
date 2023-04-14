@@ -18,6 +18,10 @@ nav ul {
   background-size: contain;
 }
 
+.headline {
+  padding-left: 10%;
+}
+
 .primary-text {
   color:#f55800;
 }
